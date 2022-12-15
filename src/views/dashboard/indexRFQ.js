@@ -515,7 +515,7 @@ const Index = (props) => {
 
     <OverlayTrigger  placement="left" overlay={
         <Tooltip >
-            Add new RFQ
+            Add new RFQssss
         </Tooltip>
         }>
           <Button variant="icon primary float-end" onClick={Add}>
@@ -536,8 +536,8 @@ const Index = (props) => {
                                             <table id="style-2" className="table box mb-0 table-striped  force-overflow" role="grid">
                                                 <thead  >
                                                     <tr>
-                                                        <th>Name</th>
-                                                        <th>Actions</th>
+                                                        <th>Naddme</th>
+                                                        <th>Actdddions</th>
                                                     </tr>
                                                 </thead>
                                                 <tbody>
